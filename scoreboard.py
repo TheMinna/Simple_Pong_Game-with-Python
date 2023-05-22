@@ -4,7 +4,7 @@ FONT = ("Courier", 24, "normal")
 
 ALIGMENT_LEFT = 'left'
 # ALIGMENT_RIGHT = 'right'
-
+# comment here
 
 class Scoreboard(Turtle):
 
